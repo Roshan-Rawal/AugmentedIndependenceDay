@@ -7,5 +7,5 @@ National Anthem will start.
 
 It was a simple try from our side to celebrate our independence day in more innovative and immersive way with the help of technology :)
 
-In this Unity and Vuforia SDK is used.
+In this Unity and Vuforia SDK are used.
 
